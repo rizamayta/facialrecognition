@@ -48,8 +48,9 @@ Instructions on how to run the project:<br>
 **Step 2:** cd to the directory where your downloaded folder is located.<br>
 **Step 3:** run: `pip install -r requirements.txt` in your shell <br>
 **Step 4:** open the project folder in spyder <br>
-**Step 5:** If you want to create the model you can run modelcreation.py but it will take time for model creation. Also if you want to increase the iteration present to make the model perform more iteration you can open the modelcreation.py file and change the epoch value to the respectiver number you want.
-**Step 6:** As the model has already been created you can direclty open main.py and run it to get the output
+**Step 5:** Download the dataset ('https://www.kaggle.com/deadskull7/fer2013) if you want to create your own model 
+**Step 6:** If you want to create the model you can run modelcreation.py but it will take time for model creation. Also if you want to increase the iteration present to make the model perform more iteration you can open the modelcreation.py file and change the epoch value to the respectiver number you want.
+**Step 7:** As the model has already been created you can direclty open main.py and run it to get the output
 
 ## Results
 Facial Recognition <br>
