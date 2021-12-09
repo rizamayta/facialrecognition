@@ -29,7 +29,7 @@ Codes are writtern in python and requires python 3.6 + to run.
 
 ## Implementation
 * Creating the facial recognition model using Convolutional Neural Network (CNN).
-![Facial-Expression](/CNN.jpeg)
+![Facial-Expression](/CNN.jpg)
 * The concept is that the convolutional layers extract basic, low-level properties that apply across images — such as edges, patterns, and gradients 
 * Use strategies: (Model Creation ,Optimization using Adam(Method for Stochastic Optimization, Saving Model and implementing in the other photos for detection). 
 * It will involve 4 steps : Model Creation, Adam Method, Saving Model, Using Model for detection and according to the result playing sound.
@@ -39,7 +39,7 @@ Codes are writtern in python and requires python 3.6 + to run.
 * According to the expression present we use the youtube playlist for songs suggestion
 
 
-![Facial-Expression](/Screenshot1.png)
+![Facial-Expression](/screenshot1.png)
 
 
 ## Running code
